@@ -1,11 +1,10 @@
-# E-commerce Fashion Website
+# E-commerce Website
 
-Welcome to the E-commerce Fashion Website project repository! This repository contains the source code for a full-stack e-commerce platform developed using the MERN stack—MongoDB, Express.js, React.js, and Node.js.
+Welcome to the E-commerce Website project repository! This repository contains the source code for a full-stack e-commerce platform developed using the MERN stack—MongoDB, Express.js, React.js, and Node.js.
 
 ## Overview
 
-This project aims to deliver a comprehensive e-commerce solution tailored for fashion retail, providing users with an immersive shopping experience and administrators with robust management tools. Leveraging modern web development technologies and best practices, the platform offers a seamless blend of functionality, performance, and aesthetics.
-
+This project aims to deliver a comprehensive e-commerce solution tailored for fashion retail, providing users with an immersive shopping experience and administrators with robust management tools. 
 ## Features
 
 - **User Authentication**: Secure user registration and login functionality, with role-based access control for administrators.
@@ -39,8 +38,8 @@ This project aims to deliver a comprehensive e-commerce solution tailored for fa
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/RaviX27/E-Commerce-Fashion-Website-Using-MERN-/`
-2. Navigate to the project directory: `cd e-commerce-fashion-website`
+1. Clone the repository: ` https://github.com/pratikshinde1/eCommerce-`
+2. Navigate to the project directory: `cd e-Commerce`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file in the root directory and add necessary environment variables (refer to `.env.example` for guidance)
 5. Start the development server: `npm start`
